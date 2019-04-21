@@ -40,3 +40,5 @@ OBJECT_SHARED Models/Airport/Apronlamp16m360deg.xml -71.94445595 -13.53793636 32
 OBJECT_SHARED Models/AirBase/klsv-small-building-1.xml -71.94506559 -13.53795481 3293.6447 83.6 0.0 -0.0
 OBJECT_SHARED Models/AirBase/klsv-small-building-1.xml -71.94489677 -13.53797470 3293.4808 83.6 0.0 -0.0
 OBJECT_SHARED Models/AirBase/klsv-workshop-dual-red.xml -71.94469352 -13.53803355 3293.0071 353.8 0.0 -0.0
+
+OBJECT_SHARED Models/Airport/tower_EPRZ.xml -71.94346263 -13.53813488 3276.8376 0.0 0.0 -0.0
